@@ -247,6 +247,15 @@ img {
 /*Importante
 ---------------------------------------------------------*/
 
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
+
 .important {
 	
 	position: relative;
@@ -399,6 +408,7 @@ x:-o-prefocus, .navi-link {
 	max-width: 125px;
 	margin-top: 30px;
 }
+
 
 /*Skills
 ---------------------------------------------------------*/
