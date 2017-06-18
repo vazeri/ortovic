@@ -1256,10 +1256,10 @@ footer span {
 }
 #spinner {
 	position: absolute;
-	width: 500px;
-	height: 550px;
-	top: 50%;
-	left: 58%;
+	width: 424px;
+	height: 560px;
+	top: 40%;
+	left: 65%;
 	margin: -212px 0 0 -280px;
 	background: url(../img/loader.png) no-repeat;
 }
