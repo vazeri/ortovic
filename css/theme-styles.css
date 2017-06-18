@@ -1258,8 +1258,8 @@ footer span {
 	position: absolute;
 	width: 424px;
 	height: 560px;
-	top: 50%;
-	left: 50%;
+	top: 45%;
+	left: 55%;
 	margin: -212px 0 0 -280px;
 	background: url(../img/loader.png) no-repeat;
 }
